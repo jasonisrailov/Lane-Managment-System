@@ -9,12 +9,17 @@ The simplest functionality of LMS is a lane sensing feature, which essentially i
 
 LDWS would make use of the Lane sensing feature and issues warnings to the driver when the vehicle leaves a lane. Here some issues are: proper definition of lane departure, when and how often to give warnings, how do we deal with momentary/partial departure from a lane, distinguishing intentional departures, prediction of departure, etc. LKS would be an enhancement to LDWS, where the system could intervene and try to send commands to steer and adjust the position of the vehicle. This functionality is more critical as the control is taken away from the driver. The issues to be addressed include who is the master, when and how to override, period of control. . Many of these features are enabled only when the speed of the vehicle is between certain thresholds.
 
-## Useful Links
-- [Project Website hosted on the MSU CSE servers] (https://cse.msu.edu/~periala3/public.html)
-- [CSE 435 Course Page] (https://www.cse.msu.edu/~cse435/) 
-- [Professor Betty Cheng's Site] (https://www.cse.msu.edu/~chengb/)
+[Read Full Project Description](/Project%20Description%20-%20Lane%20Management%20System%20-%20General%20Motors.pdf)
 
-### References
-B.H.C. Cheng, “CSE 435 Software Engineering, in-lecture,” October 2021.
-J. Perialas, “LMS,” LMS Team Page, 2021. [Online]. Available:
+## Software Requirements Specification (SRS)
+[Read Lane Managment System SRS](/Lane%20Management%20System%20SRS.pdf)
+
+## Useful Links
+- [Project Website hosted on the MSU CSE servers](https://cse.msu.edu/~periala3/index.html)
+- [CSE 435 Course Page](https://www.cse.msu.edu/~cse435/) 
+- [Professor Betty Cheng's Site](https://www.cse.msu.edu/~chengb/)
+
+## References
+1. B.H.C. Cheng, “CSE 435 Software Engineering, in-lecture,” October 2021.
+2. J. Perialas, “LMS,” LMS Team Page, 2021. [Online]. Available:
 https://cse.msu.edu/~periala3/index.html/ . [Accessed: 16-Nov-2021].
