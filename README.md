@@ -1,6 +1,8 @@
 # GM Vehicle Lane Managment System
 As part of CSE 435: Software Engineering at Michigan State University (MSU) and in conjunction with General Motors (GM), Group 1 developed a Lane Management System (LMS) that included the following features: Lane Keeping Systems (LKS), Lane Departure Warning Systems (LDWS) and Lane Centering Systems (LCS) for a GM vehicle.
 
+[See Personal Website Description](https://jasonisrailov.com/kohls)
+
 ## Project Background
 Automotive manufacturers are bringing in a variety of features that assist the future drivers as a means to enhance the convenience and ensure safety in driving. Some of these new features rely on the lane markings on the road in order to enable the driver to ensure that the car remains within the lane while driving. The objective of this project is to develop a Lane Management System (LMS) that will include the following features: Lane Keeping Systems (LKS), Lane Departure Warning Systems (LDWS) and Lane Centering Systems (LCS). LMS is a driver assistance system that can include a variety of functions starting with the simplest passive LMS that can detect the lanes and compute the relative position of the vehicle to the most complex active LMS, which can take over the control from the driver to position the vehicle within a lane.
 
@@ -15,6 +17,7 @@ LDWS would make use of the Lane sensing feature and issues warnings to the drive
 [Read Lane Managment System SRS](/Lane%20Management%20System%20SRS.pdf)
 
 ## Useful Links
+- [Personal Website Kohl's Project Page](https://jasonisrailov.com/kohls)
 - [Project Website hosted on the MSU CSE servers](https://cse.msu.edu/~periala3/index.html)
 - [CSE 435 Course Page](https://www.cse.msu.edu/~cse435/) 
 - [Professor Betty Cheng's Site](https://www.cse.msu.edu/~chengb/)
@@ -22,4 +25,4 @@ LDWS would make use of the Lane sensing feature and issues warnings to the drive
 ## References
 1. B.H.C. Cheng, “CSE 435 Software Engineering, in-lecture,” October 2021.
 2. J. Perialas, “LMS,” LMS Team Page, 2021. [Online]. Available:
-https://cse.msu.edu/~periala3/index.html/ . [Accessed: 16-Nov-2021].
+https://cse.msu.edu/~periala3/index.html. [Accessed: 16-Nov-2021].
